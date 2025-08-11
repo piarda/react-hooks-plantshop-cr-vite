@@ -1,5 +1,28 @@
 # Phase 2 Code Challenge: Plantsy
 
+This is a React-based plant shop application that allows users to browse, search, add, and manage plants in an interactive and user-friendly interface.
+
+# Features include:
+- Browse Plants: View a list of available plants with details like name, price, and image.
+- Search Functionality: Filter plants by name using a dynamic search bar.
+- Add New Plants: Submit a form to add new plants to the inventory.
+- Toggle Availability: Mark plants as "In Stock" or "Out of Stock" with a click of a button.
+
+# Installation:
+Upon cloning the respository, install dependencies via:
+  npm install
+Start the development server by running:
+  npm start
+Open your browser to see the app and enter the URL:
+  http://localhost:5173/
+Backend Server: this app requires the backend server to be running at http://localhost:6001 to fetch and save plant data.
+
+# Screenshot:
+
+![Plantsy Screenshot](./assets/PlantsyScreenshot.png)
+
+-----
+
 ## Demo
 
 Use this gif as an example of how the app should work.
